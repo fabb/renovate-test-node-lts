@@ -1,1 +1,1 @@
-FROM ghcr.io/docker-mirror/node:16.15.1-alpine as app
+FROM node:16.15.1-alpine as node
